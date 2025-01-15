@@ -9,11 +9,11 @@ This repository contains an end-to-end implementation of a chatbot using **Dialo
 - [Features](#✨-features)
 - [Technologies Used](#🛠️-technologies-used)
 - [Architecture Overview](#🏗️-architecture-overview)
-- [Getting Started](#🚀-getting-started)
+<!-- - [Getting Started](#🚀-getting-started)
 - [Project Setup](#🛠️-project-setup)
 - [Usage](#▶️-usage)
 - [Contributing](#🤝-contributing)
-- [License](#📜-license)
+- [License](#📜-license) -->
 
 ---
 
@@ -41,7 +41,7 @@ This project is ideal for developers looking to learn and build AI-powered conve
 - **Python**: Backend development.
 - **FastAPI**: RESTful API development.
 - **ngrok**: Tunneling for local server exposure.
-- **PostgreSQL**: Database for storing user intents and responses.
+- **MySQL**: Database for storing user intents and responses.
 
 ---
 
@@ -54,13 +54,3 @@ This project is ideal for developers looking to learn and build AI-powered conve
 
 ---
 
-## 🚀 Getting Started
-To set up and run the project locally, follow the [installation and setup guide](#🛠️-project-setup).
-
----
-
-## 🛠️ Project Setup
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/your-repo/chatbot-nlp
-   cd chatbot-nlp
